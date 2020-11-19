@@ -1,3 +1,5 @@
+# Sensors network with Lopy using MQTT
+# Written by Samuel Viegas & Hugo Aquino
 #---------------------------- I2C Configuration ----------------------------------
 i2c=I2C(0)
 i2c.init(I2C.MASTER,baudrate=100000)
