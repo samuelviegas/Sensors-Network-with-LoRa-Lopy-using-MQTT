@@ -7,5 +7,5 @@ Then at mqtt.mydevices.com we created an account and created a dashboard that di
 This is how our dashboard looks like:
 ![dashboard](dashboard.png)
 And this is the hardware that we used:
-!LoPy](LoPy.png)
+![LoPy](LoPy.png)
 ![PySense](PySense.png)
